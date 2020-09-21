@@ -1,3 +1,3 @@
-# previously-on
+# Free Ads
 
-Developpement d'une application web permettant de gerer ses séries tv
+Developpement d'un site web permettant de gerer ses annonces
